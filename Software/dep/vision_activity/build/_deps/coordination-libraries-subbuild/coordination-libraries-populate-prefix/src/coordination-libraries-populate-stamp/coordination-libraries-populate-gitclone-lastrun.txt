@@ -1,0 +1,3 @@
+repository='git@gitlab.kuleuven.be:u0144428/coordination_libraries.git'
+module=''
+tag='origin'

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/CMakeFiles/uthash"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/CMakeFiles/uthash.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/CMakeFiles/uthash-complete.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/uthash-prefix/src/uthash-stamp/uthash-install.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/uthash-prefix/src/uthash-stamp/uthash-mkdir.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/uthash-prefix/src/uthash-stamp/uthash-download.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/uthash-prefix/src/uthash-stamp/uthash-patch.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/uthash-prefix/src/uthash-stamp/uthash-configure.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/uthash-prefix/src/uthash-stamp/uthash-build.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-build/uthash-prefix/src/uthash-stamp/uthash-skip-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uthash"
+		],
+		"name" : "uthash"
+	}
+}

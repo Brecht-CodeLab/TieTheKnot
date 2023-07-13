@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/CMakeFiles/five-c-populate"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/CMakeFiles/five-c-populate.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/CMakeFiles/five-c-populate-complete.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-install.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-download.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-update.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-patch.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-configure.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-build.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/five-c-subbuild/five-c-populate-prefix/src/five-c-populate-stamp/five-c-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"five-c-populate"
+		],
+		"name" : "five-c-populate"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/CMakeFiles/coordination-libraries-populate"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/CMakeFiles/coordination-libraries-populate.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/CMakeFiles/coordination-libraries-populate-complete.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-install.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-download.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-update.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-patch.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-configure.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-build.rule"
+		},
+		{
+			"file" : "/home/brecht/arcs2022/Projects/TieTheKnot/Software/dep/vision_activity/build/_deps/coordination-libraries-subbuild/coordination-libraries-populate-prefix/src/coordination-libraries-populate-stamp/coordination-libraries-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"coordination-libraries-populate"
+		],
+		"name" : "coordination-libraries-populate"
+	}
+}
